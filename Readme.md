@@ -17,5 +17,9 @@ Controls
 3. `arrow-down` : Changes the direction to down.
 4. `space bar` : Pauses the game.
 
+Screenshots
+-----------
+![alt text](http://web.iiit.ac.in/~kshitij.kansal/Screenshot1.png)
+![alt text](http://web.iiit.ac.in/~kshitij.kansal/Screenshot2.png)
 
 Rules you will understand as you go about playing the game.
